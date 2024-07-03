@@ -51,7 +51,7 @@
     "@ethereumjs/common": "3.0.1",
     "@ethereumjs/evm": "1.2.2",
     "@ethereumjs/tx": "4.0.1",
-    "@ethereumjs/util": "8.0.2",
+    "@ethereumjs/util": "8.0.4",
     "@ethereumjs/vm": "6.2.0",
     "@ganache/ethereum-address": "0.7.1",
     "@ganache/rlp": "0.7.1",
